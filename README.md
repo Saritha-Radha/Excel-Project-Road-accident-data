@@ -17,6 +17,6 @@ Data Visualization to Create Charts and Custom Sheets:
 Designed visually appealing charts, graphs, and custom sheets to present the analyzed data effectively. Leveraged Excel's built-in visualization capabilities to create interactive and informative visual representations of accident trends, severity levels, and contributing factors.
 
 ### The dashboard
- <img src="images/Picture1.png" width="500" > 
+ <img src="images/Picture1.png" width="900" > 
 
  
